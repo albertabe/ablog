@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Set Up GitHub Pages with Jekyll"
-date: 2024-05-21
+date: 2025-06-10
 categories: [jekyll, github]
 tags: [webdev, blogging, static-site]
 author: abe
